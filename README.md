@@ -9,6 +9,7 @@ Integrated M.Tech (Artificial Intelligence)
 VIT Bhopal
 
 GitHub: https://github.com/Abthakur-hub
+Live Demo : https://student-placement-docker.onrender.com
 
 A Machine Learning web application that predicts whether a student is likely to get placed based on their academic performance and other factors.
 
